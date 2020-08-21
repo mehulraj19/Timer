@@ -2,7 +2,7 @@
 Time Web Application using React JS
 I have started learning React JS and I have cam across a very cool feature of this framework: "useState()". Baiscally this helps to hook to the values and help us to change 
 what we see in UI.
-\newline
+<br/>
 ###UI = f(state)
 "useState" function helps us to hook to this state and make changes accordingly.
 
